@@ -1,0 +1,442 @@
+﻿UNIVERSIDAD TECNOLÓGICA METROPOLITANA
+FACULTAD DE INGENIERÍA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contenido
+Introducción	4
+Marco teórico	8
+Capítulo 0	9
+Capítulo 1	12
+Los elementos de este sistema	17
+Corrientes de entrada	17
+Procesos de conversión:	17
+Corrientes de salida (+: positivo; +: negativo, desde nuestra expectativa):	18
+Comunicación de retroalimentación	18
+Capítulo 2	19
+Análisis de la problemática según Petter Checkland	19
+¿Por qué el cambio climático es un sistema blando?	19
+Investigue el problema no estructurado.	20
+¿Cómo se relaciona la población con cada parte del sistema?	21
+Definiciones de fondo de los sistemas relevantes.	22
+Modelos conceptuales	24
+Comparación de modelos conceptuales con la realidad	25
+Cambios factibles, deseables.	25
+Acción para mejorar la problemática	26
+Capítulo 3	28
+Dame una palanca y moveré el mundo	28
+¿Su organización tiene problemas de aprendizaje?	30
+1. "Yo soy mi puesto"	31
+2.  "El enemigo externo"	31
+3. "La ilusión de hacerse cargo"	31
+4. La fijación en los hechos	31
+5. La parábola de la rana hervida	31
+6. La ilusión de que "se aprende con la experiencia"	32
+7. El mito del equipo administrativo	32
+Leyes de la quinta disciplina	32
+1.- Los problemas de hoy derivan de las "soluciones" de ayer.	32
+2.- Cuanto más se presiona, más presiona el sistema.	33
+3.- La conducta mejora antes de empeorar.	33
+4.- El camino fácil lleva al mismo lugar.	33
+5.- La cura puede ser peor que la enfermedad.	34
+6.- Lo más rápido es lo más lento.	34
+7.- La causa y el efecto no están próximos en el tiempo y el espacio.	34
+8.- Los cambios pequeños pueden producir resultados grandes, pero las zonas de mayor apalancamiento a menudo son las menos obvias.	35
+9.- Se pueden alcanzar dos metas aparentemente contradictorias.	35
+10.- Dividir un elefante por la mitad, no genera dos elefantes pequeños.	36
+11.- No hay culpa	36
+Ver el mundo de nuevo	36
+Círculos de la causalidad	37
+Refuerzo y equilibrio de la realimentación y las demoras: Los ladrillos del pensamiento sistémico	38
+Realimentación reforzadora: cómo crecen los cambios pequeños	38
+Procesos compensadores: estabilidad y resistencia	38
+Demoras: La clave es "finalmente"	39
+Configuraciones naturales: patrones que controlan acontecimientos	39
+Arquetipo 1: límites del crecimiento	39
+Estructura	40
+Arquetipo 2: desplazamiento de la carga.	41
+Estructura	41
+Arquetipo 3: soluciones contra producentes	42
+Estructura	43
+Arquetipo 4: tragedia del terreno común	43
+Estructura	44
+El principio de la palanca	44
+Perspectiva	44
+Arquetipo 4 aplicado	46
+Conclusiones	49
+Bibliografía	50
+
+
+Introducción
+     El presente informe se realiza en base a un análisis de las problemáticas medioambientales ocasionadas por el sistema económico debido a la sobreexplotación de los recursos naturales y las tendencias de consumo expuestas en 1972, por un grupo de cuatro investigadores del Instituto Tecnológico de Massachusetts (MIT), en el cual se auguraba el colapso de la economía mundial para el año 2030. Enlazando una serie de modelos computacionales para analizar la información financiera de aquel tiempo, obtuvieron como resultado que, en caso de que la sociedad mantuviera su tendencia de aumentar el volumen de consumo, el sistema financiero no soportaría más y, paradójicamente, terminaría por consumirse así mismo.
+     El cúmulo de modelos computacionales que se empleó en su momento permitió correlacionar una serie de variables que giraban en torno a dos grupos: las diversas facetas del desarrollo "global" y las consecuencias de esta dinámica sobre la Tierra. De acuerdo con esto se incluyeron patrones que reflejaban la cantidad de recursos disponibles, la productividad agrícola, el control poblacional, y la cultura de protección medioambiental, entre otros.
+     Si bien en ese entonces este estudio fue desestimado e incluso tildado de "apocalíptico", hoy en día las consecuencias del cambio climático son evidentes y latentes día a día, a consecuencia del estilo de vida y la sociedad de consumo, esa tendencia inmoderada a adquirir, gastar o consumir bienes, no siempre necesarios o dicho de plano innecesarios para el diario vivir.
+     ¿Cómo influye el consumismo en la contaminación?, en la actual sociedad, existe un estilo de vida consumista el cual es uno de los principales causantes de la contaminación del medio ambiente.
+     Desde muchos años, hemos consumido y desechado productos y bienes de forma masiva, produciendo un gran golpe para el medio ambiente, el cual produce que se acaben con las materias primas del planeta.
+     Sin embargo, nuestros hábitos de consumo como sociedad han ido creciendo en el último tiempo, teniendo la necesidad de comprar bienes y productos que a veces no necesitamos (de manera casi compulsiva). El problema de todo esto son los crecientes desechos de los bienes consumidos, como es el caso de los plásticos que son muy contaminantes y difíciles de reutilizar.
+     Así mismo, la obsesión por los diferentes productos nos lleva a tener la necesidad de renovar los bienes viejos por otros nuevos, independientemente del funcionamiento de los mismos.
+     Entonces, desde la extracción de recursos para la producción de los bienes de consumos, hasta los desechos que estos producen (o el mismo bien de consumo desechado) por la sociedad produce una gran contaminación para el medio ambiente, destruyendo la naturaleza.
+     El principal argumento para la defensa de la sociedad de consumo se apoya en que el consumo contribuye a mejorar la calidad de vida de las personas y que ayuda a las sociedades a desarrollarse. Paradójico si se piensa en que el calentamiento global afecta día a día la vida de las personas principalmente a los más desposeídos de la sociedad. En esta sociedad ideal donde las personas pueden comprar cualquier cosa que quieran, hay muchos que no pueden consumir, ya que el principal requisito para disfrutar de la sociedad de consumo, moderna y desarrollada, es tener dinero. En la sociedad actual sigue habiendo millones de pobres, incluso en países desarrollados, que no pueden participar en la sociedad de consumo. Al mismo tiempo existen personas educadas y con atributos que podrían considerarse como rentables para el actual sistema, y sin embargo prefieren vivir de los deshechos, demostrando así lo absurdo que es el estilo de vida que las masas siguen.
+     Los tres principales emisores de gases de efecto invernadero, son China (11735 MtCO2e; 26.83%), la Unión Europea (4224.5 MtCO2e; 9.66%) y Estados Unidos (6279.8 MtCO2e; 14.36%), contribuyen con más de la mitad del total de emisiones mundiales, mientras que los 100 países más bajos sólo representan el 3,5 por ciento, por su parte Chile (103.6 MtCO2e; 0.24%). En conjunto, los 10 principales emisores representan casi las tres cuartas partes de las emisiones globales. El mundo no puede abordar con éxito el desafío del cambio climático sin una acción significativa de estos países.
+     Si bien el 72% del total de las emisiones son por conceptos de generación de energía que requieren cambios en las políticas energéticas de los países involucrados, la magnitud de esta contaminación se podría reducir con cambios de hábitos en la población tan simples como encender las luces de una casa exclusivamente cuando sea realmente necesario, no desperdiciar el agua potable, reducir el uso del automóvil para recorridos cortos compartir el mismo con otras personas, o bien reduciendo el consumo solo a productos que sean realmente necesarios para la vida diaria.
+     Es por esto que el enfoque que tomará este informe en los capítulos venideros será desde el punto de vista sociocultural haciendo hincapié en los hábitos de consumo de la población para disminuir indirectamente la contaminación del sector industrial, apoyándose en el sistema educacional como pilar fundamental para este cambio de paradigma de las sociedades, entendiendo que la industria responde a los estímulos que la sociedad le impone (o permite). Buscando ejemplos de iniciativas alrededor del mundo para estudiarlas y analizarlas con un enfoque de sistemas y así poder adaptarlas a otras realidades.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Marco teórico
+     Gestalt: La psicología de la Gestalt es un movimiento de la psicología que surgió a comienzos del siglo XX en suelo alemán, Esta escuela sostiene que la mente se encarga de configurar, mediante diversos principios, todos aquellos elementos que se pasan a formar parte de ella gracias a la acción de la percepción o al acervo de la memoria. Para la psicología de la Gestalt, el todo nunca es igual a la sumatoria de sus diversas partes, sino que es algo diferente.
+     Sinergia: concepto utilizado para nombrar a la acción de dos o más causas que generan un efecto superior al que se conseguiría con la suma de los efectos individuales. Un objeto posee sinergia cuando el examen de una o alguna de sus partes (incluso de cada una de sus partes) en forma aislada, no puede predecir o explicar la conducta del todo.
+     Recursividad: Podemos entender por recursividad el hecho de que un objeto sinergético, un sistema, esté compuesto de partes con características tales que son a su vez objetos sinérgicos (sistemas).
+     Mecanicismo: Sistema que afirma que la única forma de causalidad entre las entidades que conforman el mundo material es la influencia física que ejerce una sobre otra. La base del mecanicismo es una realidad predecible.
+     Reduccionismo: Es una tendencia del pensamiento, la cual contempla el estudio de las partes pertenecientes a un todo, y afirma que el todo puede ser explicado simplemente con la suma de las partes constituyentes, dejando de lado las relaciones entre las partes y su inserción en un todo mayor.
+
+Capítulo 0
+     Para comenzar a analizar la problemática planteada, por medio de un enfoque de tipo mecanicista con el fin analizar y dar una posible solución al problema, se debe comenzar por analizar la situación en la que se encuentra, y las partes que lo componen. El mecanicismo, supone que cada parte perteneciente al problema, lo explica en su cierta medida, y son relevantes las conclusiones que surjan de analizar cada parte por sí sola, con respecto al problema general.
+     En la actualidad, en la mayor parte de los países desarrollados o en vías de desarrollo, se ha implantado una sociedad de consumo sin restricciones, la cual no posee una conciencia necesaria, que le permita detenerse y analizar la cantidad de recursos o materias primas que se utilizaron en el proceso para llegar a obtener el producto o bien deseado. Esto provoca un desenfreno en la población, la cual al relacionar un mayor poder adquisitivo, con una mejor posición en la sociedad respecto a otras personas, se ve inmersa en un círculo vicioso de comprar más productos y renovar sus adquisiciones constantemente, como si fuera una carrera o una competencia para ver quien es capaz de adquirir y poseer más.
+     En un principio, el concepto de consumo era entendido como un impulsor y reactivador de la economía. En el caso de presentarse una situación de crisis económica, disminuye la demanda de los bienes y servicios, por lo que las empresas se ven directamente afectadas ya que no venden sus productos, aumenta el desempleo y con ello disminuyen los ingresos de las personas para poder sustentarse y proseguir con su vida normal. El estado también se ve fuertemente afectado, ya que sus ingresos generados por medio de los impuestos se ven considerablemente reducidos, incurriendo en un malestar generalizado de la población. Es por esto que el consumismo se ha transformado en el caballo de batalla para mantener la economía estable y funcionando de manera normal.
+      La problemática principal, se desarrolla dentro de un marco en el cual a la población general, se les han otorgado una gran cantidad de libertades y facilidades con el fin de mantenerlas constantemente haciéndose con nuevas adquisiciones. Todo esto, debió ir de la mano con un plan de acción, el cual le mantuviera presente y le hiciera tomar conciencia a las personas, de que dichas libertades llevan implícitas consigo ciertas responsabilidades, las cuales si no se toman en cuenta, podrían llevar al colapso de la economía como la conocemos actualmente.
+     Al mantenerse la economía creciendo constantemente, se explotan cada vez más los recursos no renovables del planeta y aumenta considerablemente la contaminación del medio ambiente en especial del aire y del agua, producto de los desechos y residuos procedentes de la actividad humana o de procesos del tipo industrial. Como la población no fue advertida ni instruida en el momento correcto respecto a estos inminentes problemas, se mantuvo un constante crecimiento del consumo habitual, el cual se transformó en una mala costumbre. Los problemas antes mencionados, eran vistos por la población como un mal menor, con respecto a los avances que se habían logrado en relación con el bienestar general de la población mundial. Esto, ya que constantemente iban aumentando los niveles de comida, de servicios y de productos disponibles per cápita, además de un aumento en la cantidad de población lo que hacía suponer que se estaba desarrollando una mejora generalizada para la población mundial.
+     Lo que la sociedad no tomó en cuenta a tiempo, es que dichos beneficios, no se podrían sustentar indefinidamente en el tiempo, con la cantidad de recursos que existe actualmente, y que día a día van siendo consumidos por empresas que los explotan sin tomar las precauciones necesarias, con el fin de evitar la escasez en un futuro cercano. La población debió ser educada oportunamente con respecto a las limitaciones que se podrían presentar, las cuales harán que llegado a un punto de no retorno,  los beneficios antes mencionados lleguen a su límite máximo, para luego comenzar a decaer en conjunto con la cantidad de recursos no renovables que vayan quedando.
+     El análisis realizado por Graham Turner, es bastante importante a la hora de crear conciencia en la población y tratar de evitar el inminente colapso de la economía actual. Esto ya que se reafirman las predicciones hechas por el reporte "Limits to Growth", el cual en su tiempo fuera considerado como una visión "fatalista" o exagerada de lo que sería el porvenir de la economía mundial. Por medio de su análisis y la comparación que realiza respecto a las predicciones realizadas anteriormente, y los datos reales recopilados durante los años 1970 y 2000, se puede notar que se han mantenido las prácticas cotidianas y regulares, que provocarán el inminente colapso del sistema de economía actual en los años próximos.
+     Por medio de dicho análisis, al tener datos duros que respalden la teoría que se presenta inicialmente en 1972, sería mucho más fácil hacer que la población tomara conciencia del problema en que está inmersa, y tomar la medidas correspondientes, que sean necesarias para detener el proceso de autodestrucción hacia el que se dirige el sistema económico, comandado por la sociedad consumista que se mantiene en la actualidad.
+
+ 
+Capítulo 1
+     Para abarcar la problemática desde un enfoque sistémico se debe entender que el comportamiento de las personas responde directamente a las necesidades que la sociedad impone, los modelos educativos se basan en desarrollar las cualidades que sean funcionales a la sociedad, así mismo los países basan su desarrollo en función de su economía y su economía responde a los estímulos de la economía mundial.
+     La educación chilena es una de las más avanzadas y reconocidas de América Latina. La tasa de alfabetización supera el 96% y Chile siempre es el país de América del Sur mejor clasificado en los informes PISA (Programme for International Student Assessment). Sin embargo, también destaca por su desigualdad y segregación, además de no incorporar aspectos sumamente importantes como son la educación cívica, educación financiera y la educación ambiental.
+     Contaminación, pérdida de biodiversidad, cambio climático, desertificación y sobrepoblación pueden y podrían ser solucionados en distinto grado con ayuda de inversión social en educación ambiental. La educación ambiental empieza, así como la práctica de valores desde el mismo hogar y debería ser reforzada tanto en la escuela como por propaganda social para aquellas personas que tengan la realidad de vivir en hogares con padres menos instruidos o hogares disfuncionales, deberían existir mecanismos adecuados para contener a este número de personas que en el futuro de no ser guiados correctamente acabaran perpetuando el ciclo de la contaminación y el consumo desmedido. Sin embargo, la problemática ambiental es un problema de muchas aristas y que se debe enfrentar con la sociedad y su conjunto, entiéndase esto como las empresas privadas y el gobierno, para frenar este indeseable y peligroso fenómeno es necesario reducir de forma sustancial las emisiones de gases de efecto invernadero producidas como resultado de las actividades humanas. Lograr los ambiciosos objetivos de reducción que se plantean exige un importante esfuerzo financiero y tecnológico, pero también requiere la colaboración activa de la ciudadanía. La publicidad puede jugar un importante papel en la promoción de actitudes, productos y servicios asociados a bajas emisiones de CO2. También, por el contrario, en ocasiones puede fomentar un uso irresponsable de la energía o productos y servicios que generan elevadas emisiones de gases de efecto invernadero (GeI).
+     En ocasiones, los valores, actitudes y comportamientos promovidos desde la publicidad comercial pueden ser considerados social o ambientalmente inadecuados. Esto ha llevado a diversas administraciones públicas, organizaciones no gubernamentales y al propio sector publicitario, a desarrollar distintos tipos de iniciativas dirigidas a reconducir, limitar o evitar determinadas fórmulas o contenidos publicitarios, iniciativas que resultan poco eficaces si no se analiza el problema como un sistema, ya que al observar los distintos sectores que influyen en el problema no se logra entender la magnitud real del problema.
+     Por tanto, la publicidad de las empresas del sector privado debe adoptar buenas prácticas en su representación del medio ambiente, potenciando hábitos de ahorro energético, ofreciendo información veraz y sometiéndose a códigos de buenas prácticas
+     Como los que existen ya en otros ámbitos. Dado que actualmente no existe legislación en materia de publicidad que obligue a las empresas a asumir en su publicidad:
+ 	Un enfoque respetuoso con el medio ambiente.
+ 	Informar sobre las consecuencias ambientales del uso de sus productos.
+ 	Tomar actitudes proactivas en defensa del medio ambiente, el ahorro energético y la mitigación del cambio climático.
+ 	Inculcar actitudes pro-ambientales en los consumidores
+     En diciembre de 2002, la Asamblea General de las Naciones Unidas declaró el Decenio de las Naciones Unidas para la Educación con miras al Desarrollo Sostenible, entre el 2005 y el 2014, designando a la UNESCO como organismo responsable de la promoción del Decenio.
+     Cuando la Educación Ambiental se imparte dentro del sistema escolar se hace de forma disciplinar o interdisciplinar. En el primer caso puede constituir una asignatura específica o integrarse en las materias escolares y en el segundo, puede impartirse de forma "transversal", recurriendo a los conocimientos de diversas disciplinas para tratar los temas ambientales o llevarlo a cabo mediante proyectos interdisciplinares, que se concretan en una propuesta de actividad.
+ 	En general las instancias internacionales, defienden la idea de que la educación ambiental no debe ser una disciplina escolar específica por diversos motivos:
+ 	La educación ambiental no se limita a la enseñanza de la Ecología, sino que constituye ante todo una «educación», destinada a suscitar comportamientos y transmitir valores; por ello no puede llevarse a cabo en el marco de una disciplina única. Este punto es principalmente importante ya que al inculcar a temprana edad las conductas respetuosas con el medio ambiente se estará condicionando la educación de futuros profesionales que el día de mañana cuando tengan que tomar decisiones, harán hincapié en las cuestiones medioambientales.
+ 	Para poder analizar los problemas medioambientales y proponer soluciones, se requieren conocimientos de diversas disciplinas; de ahí que la educación ambiental no pueda dejarse en manos de un solo docente, que difícilmente podría abarcar todo el saber necesario, en cambio desde un enfoque transversal y sistémico  se puede dar una mirada amigable con el medio ambiente a cualquier situación que pueda surgir
+ 	Es casi imposible ampliar el horario semanal añadiendo otra disciplina a los planes de estudios ya existentes, que por lo menos en nuestro país ya resultan ser lo bastante extensos.
+     A lo largo del mundo en las últimas décadas se vienen generando tentativas para hacer frente a la problemática por medio de la educación ambiental, algunos ejemplos de estos países son:
+ 	En Austria, la EA empezó a desarrollarse a mediados de los años sesenta. Pero no será hasta 1.984 cuando los departamentos de los ministerios a cargo del Medio Ambiente creen un Grupo de Trabajo (GT) en Educación Ambiental con la finalidad de proteger la Naturaleza y el Medio Ambiente austriaco. A este GT siguieron iniciativas como el Decreto sobre Educación Ambiental en los centros escolares publicado por el Ministerio Federal de Educación y Arte en 1.985. Destaca también el papel promotor que tuvo Austria, en 1.986, en el Programa «Medio Ambiente y actividades escolares» dirigido por el CERI de la OCDE. En 1.992, se creó en este país un fondo para la EA destinado a fomentar el desarrollo de programas de enseñanza basado en el Medio Ambiente. El Ministerio de Educación concede ayudas (aún en la actualidad) a los programas desarrollados en los centros escolares, al tiempo que publica sus resultados.
+ 	En Francia, las acciones en favor de la EA han estado orientadas a su integración en la escolaridad obligatoria. Su implantación se ha ido apoyando en los diversos textos normativos del Ministerio de Educación Nacional.
+ 	En Dinamarca existe una larga tradición de descentralización escolar y una estrecha interacción entre el poder legislador y las iniciativas locales. La Educación Ambiental se imparte e través de actividades respaldadas por el Ministerio de Enseñanza o por centros locales. Esto se explica porque los centros de enseñanza básica y de primer ciclo de enseñanza secundaria dependen en su mayoría de las autoridades locales mientras que las escuelas superiores y la universidad dependen del Estado.
+Los comienzos de la EA en este país tuvieron su origen en la preocupación personal de algunos profesores, que ante la gran avalancha de problemas medioambientales existentes en los años sesenta, comenzaron a intentar concienciar a sus alumnos de su importancia y de los daños que éstos producen en la sociedad. Con la Ley de Enseñanza Fundamental de 1.975, se lleva a cabo en este país un gran adelanto en EA pues, entre otros aspectos, se expone que, de una forma general, la educación debe poner en contacto a los alumnos con los problemas que le rodean habitualmente, siendo el deterioro del Medio Ambiente uno de ellos. Así, en las observaciones adjuntas a esta Ley se precisa que la Educación Ambiental ha de integrarse en las distintas asignaturas.
+ 	Considerando que Italia es un país de régimen educativo centralizado tanto a nivel de educación primaria como media -, administradas todas ella por el Ministerio de Instrucción Pública- la implantación de la Educación Ambiental va también a atenerse a las leyes nacionales y a los decretos a las y normas emitidos por la Administración Central. Desde 1.991, existe en este país, un Convenio entre los Ministerios de Educación y Medio Ambiente para el desarrollo de esta materia, apoyados por instituciones como el Ente Nacional para la Energía y el Ambiente que pone a disposición de los centros su material didáctico.
+ 	Grecia es otro de los países centralizados a efectos educativos. El Ministerio de Educación y Cultura ejecuta todas las acciones fundamentales y toma las decisiones oportunas. Sólo las universidades gozan de cierta autonomía, por lo que en la aplicación de la Educación Ambiental este país va a depender totalmente del Estado. La Ley de 31 de julio de 1.990 y la Ley de 3 de abril de 1.991 son el comienzo del reconocimiento de la EA como parte de la educación primaria y secundaria griega. En ellas se recogen la posibilidad de incluir la EA en los programas de estudio de estos niveles a la vez que se promueve la creación de centros específicos 
+     Viendo como totalidad al planeta tierra, sistema al cual se compone de diversos subsistemas (seres vivos, medio ambiente, las industrias, etc.)
+     El objetivo del planeta tierra como sistema es básicamente sobrevivir a los cambios climáticos, evitar la extinción de los seres vivos del planeta.
+Los elementos de este sistema
+Corrientes de entrada
+     Recursos materiales (materias primas, tecnología), recursos humanos, recursos financieros, y energía (combustible), para el área industrial, agrícola y ganadero.
+1)	El dióxido de carbono, energía solar y agua, para los seres vivos vegetales.
+2)	El oxígeno, agua y alimentos, para los seres vivos animales.
+3)	Bienes materiales, para los seres humanos.
+Procesos de conversión:
+1)	Proceso de conversión industrial, agrícola y ganadero, es decir con las materias primas crear bienes para el ser humano.
+2)	Proceso de fotosíntesis en los seres vivos humanos.
+3)	Alimentación de los seres vivos.
+4)	Utilización de los bienes materiales para la sobrevivencia del ser humano. 
+
+
+Corrientes de salida (+: positivo; +: negativo, desde nuestra expectativa):
+1)	Produce alimentos (+), bienes materiales (+), emisión de gases contaminantes (-), deforestación (-) y problemas de salubridad (-).
+2)	Producción de oxigeno (+) y alimento vegetal (+). 
+3)	Producción de dióxido de carbono (+, por ser un proceso natural de los animales).
+4)	Desechos de los bienes materiales (-).
+Comunicación de retroalimentación
+     Aunque en los subsistemas industriales el objetivo es aumentar la producción de bienes, por lo que el objetivo se altera implicando una retroalimentación positiva, igualmente existe el caso de las empresas que minimizan los recursos para alcanzar el mismo objetivo, esta sería una retroalimentación negativa.
+     Como sociedad (no en todas) nos hemos impuesto éticamente el desafío de reciclar, reutiliza y reducir el consumo de los bienes a través de programas educacionales sobre la contaminación. Por lo que implicaría una retroalimentación negativa.
+
+
+
+
+
+
+
+
+
+Capítulo 2
+Análisis de la problemática según Petter Checkland 
+     Para poder analizar el sistema propuesto en un comienzo es necesario, percatarnos que nos encontramos en la presencia de un sistema blando en cual se puede definir como: una técnica cualitativa que se puede utilizar para aplicar los sistemas estructurados a las situaciones asistémicas. Es una manera de ocuparse de problemas situacionales en los cuales hay una actividad con un alto componente social, político y humano. 
+¿Por qué el cambio climático es un sistema blando? 
+     Las temperaturas en la tierra son aptas debido a un proceso natural llamado el efecto invernadero, el cual a grandes rasgos se encarga de filtrar los rayos UV provenientes del sol haciendo que algunos rayos se reflejen y otros se refracten. 
+     Hay muchos gases de efecto invernadero responsables de un calentamiento adicional de la atmósfera, los cuales son producidos de diversas maneras por las personas, en su mayoría estos provienen de combustiones producidas por combustibles fósiles.   
+IPCC Summary for Policy Makers of 2013 enuncia: "La influencia humana en el sistema climático es clara. Esto es evidente por el incremento de las concentraciones de los gases de efecto invernadero en la atmósfera.
+
+En este caso para guiar un correcto estudio del problema y de esta manera complementar los análisis anteriores se utilizaran los 7 estadios propuestos por checkland, esperando de esta manera encontrar una solución que más se adecue al problema.
+Investigue el problema no estructurado. 
+     En este caso el problema no estructurado se puede dar por la investigación del MIT, y también por la del club Roma.
+ 	Los científicos del Instituto Tecnológico de Massachusetts (MIT) realizaron un pronóstico apocalíptico: si las emisiones de dióxido de carbono se mantienen en el ritmo actual, hacia 2100 podría desatarse el exterminio de casi todos los seres vivos que hay en el planeta. Se cree que aproximadamente, en ese año, se acumulará en los océanos una cantidad de carbono considerada crítica: 310 giga toneladas (310.000 millones de toneladas), el que romperá con el ciclo de carbono, proceso biogeoquímico a través del cual este elemento se intercambia entre la atmósfera, la litósfera y la hidrosfera.  
+"En el pasado geológico, este tipo de comportamiento se asocia con las extinciones       masivas"
+ 	En el año 1968 se reunieron en Roma, científicos, políticos e investigadores de diferentes países, con la excusa de buscar soluciones a los cambios climáticos que se estaban produciendo en el planeta. Según ellos, dichos cambios se deberían, exclusivamente, a la "acción humana".
+     Es importante percatarnos que como situación problema principal a tratar en este sistema es la acción humana, y sus importantes emisiones de carbón debido a las acciones antes mencionadas.  
+
+Exprese la situación del problema a través de "gráficas enriquecidas".
+ 
+Figura 2
+
+     Al expresar de esta manera el sistema podemos notar una clara relación entre todas las situaciones problemas, y se deja ver claramente que la población es la que tiene una intervención en todas las áreas que están afectando el funcionamiento de nuestro sistema.
+¿Cómo se relaciona la población con cada parte del sistema?
+ 	En la política es la población quien elige al representante ya sea país, región, comuna, agrupación y organizaciones. Siendo también un poblador quien asume ese Rol. De esta manera también podemos afirmar que es la política un arma poderosa que repercute en áreas como la economía, la industria y la producción energética.  
+ 	El ciclo del agua es un proceso natural que ayuda tanto a la vegetación , como cualquier tipo de vida existente en la tierra este es fundamental para la población ya que es esta una fuente de hidratación que es vital para la vida humana.
+ 	La economía se sostiene a través del consumo de diversos bienes o recursos que son necesarios para la población, es pues la economía un importante factor en el desarrollo de las comunidades. 
+ 	Es la producción energética una de las situaciones problemas más importantes en el sistema ya que es esta una de las principales contaminantes, tanto en la vegetación como en la emisión de gases de efecto invernadero, siendo esta parte en conjunto con la industria las principales causantes de un mal ciclo del carbón.
+ 	 El Ciclo del carbón depende muchos factores externos, ya sea a través de la absorción del carbón por medio de la fotosíntesis en las plantas, como la absorción directa de los mares, también es dependiente de la cantidad de emisión, actualmente es pues la población quien libera una cantidad enorme de carbón al ambiente, rompiendo completamente el ciclo del carbón ya que la cantidad de gas invernadero liberado al ambiente es demasiada para que los agentes naturales alcancen a eliminarlas, siendo cada vez mayor la acumulación de estos gases en el ambiente.   
+Definiciones de fondo de los sistemas relevantes.
+     Cliente: en este caso el sistema está afectando a todo ser viviente en la tierra siendo incluso la población el principal afectado de este proceso. Incluso hay procesos antes mencionados que son clientes de este sistema como lo son los ciclos del agua y del carbón que claramente se han visto deteriorados con el avance del cambio climático.  
+     Actores: Las industrias, la agricultura, la producción energética son los principales actores de este sistema ya que son estos los que están constantemente trabajando los recursos naturales de la tierra, para manufacturarlos o simplemente utilizarlos en un proceso los cuales generalmente emiten una gran cantidad de gases de efecto invernadero al ambiente.
+     Procesos de transformación: principalmente son las combustiones producidas tanto en industrias, como en las ciudades, todas las partes motrices de los procesos utilizan combustibles, los combustibles fósiles son los principales combustibles utilizados para generar cualquier tipo de movimiento o energía.
+     Weltanschauung: este tiene relación con la visión que se tiene del sistema, es un sistema poco viable para el ambiente ya que se está llegando a un inminente colapso en donde los ciclos vitales del ecosistema se están viendo interrumpidos,  haciendo esto una acumulación crucial de gases invernaderos en el ambiente, lo cual está llevando al sistema a una entropía muy alta.
+     Dueño: Pese a que el sistema en estudio es el planeta tierra en sí, el principal actor sobre este es el ser humano siendo este un dueño del sistema, ya que depende de las acciones humanas el comportamiento general del planeta, si el actuar humano es el ideal el sistema se mantiene estable, si el actuar del humano es imprudente se llega a las consecuencias que nos encontramos ahora.   
+     Restricciones ambientales: si analizamos el sistema es la falta de restricciones lo que tiene al sistema actuando de una manera indebida, ya que los grandes emisores de gases contaminantes, no poseen ninguna ley o sistema que limite la emisión de estos. Es necesario que la política se incorpore en el sistema ya que es esta la que tiene un gran vacío legal respecto a las emisiones de carbono.    
+
+
+
+Modelos conceptuales 
+ 	El sistema de trabajo trata como principal enfoque el cambio climático y sobrevivencia de la especie humana, en donde tenemos diversos factores que nos están perjudicando en el desarrollo del sistema, en donde el sistema está llegando a grados muy altos de entropía.
+En el sistema se encuentra la población, los sistemas sociales como los principales actores del sistema son como un pivote que actúa el todas las áreas del sistema, estos intervienen en las industrias, en la política, en la economía, etc. Pero estos no están limitando o restringiendo sus procesos el porte político en el sistema es muy bajo, estos están observando la retroalimentación del sistema pero aun así dejan muchos vacíos legales, por otro lado la cultura y la educación del ser humano es muy baja o de mala calidad, lo cual genera muy poca conciencia ecológica en la sociedad son estos los principales causantes del mal funcionamiento del sistema, pero no se preparan, para arreglar el desastre en proceso.      
+ 	El sistema debiese trabajar con un nuevo sistema de educación global en donde se inserte al ser humano en la naturaleza, en donde el cambio cultural sea tal que en los senados de cada nación se obligue (debido a la presión ejercida por la masa) a limitar a las empresas, naciones y personas que estén emitiendo gases contaminantes que no estén respetando la naturaleza.  
+
+
+
+
+Comparación de modelos conceptuales con la realidad
+
+Como observamos en las gráficas enriquecidas todo el sistema funciona a través de múltiples interacciones entre los subsistemas, en donde el principal subsistema es la población , en los modelos conceptuales se hizo notar un claro déficit de la intervención humana en el sistema político, en donde el sistema político debiese ser el encargado de restringir los otros subsistemas en cuestión , llegando a una premisa en donde  la cultura que tiene la sociedad no está presionando lo suficiente, para que se apliquen las restricciones debidas a los subsistemas.  
+Cambios factibles, deseables.
+     Lo principal es cambiar la mentalidad de la población en donde se genere una población que piense a futuro en donde se preocupen por heredar un planeta limpio el cual no solo se vea limpio si no que realmente este limpio, en donde se cuiden las aguas, las empresas comiencen a tener ciclos de degradación de materiales a más corto plazo, en donde las energías limpias predominen, de esta manera se deben utilizar los recursos del sol , aire , mar e incluso la energía calórica aportada por los canales volcánicos , culturalmente es necesario incluir en la población cambios de alimentación en donde sea la prioridad las proteínas de origen vegetal y eliminar los aceites que son extraídos del Nepal , ya que estas extracciones de aceites son muy dañinas, siendo estas muy perjudiciales con los bosques, los cuales son los pulmones del planeta, es necesario introducir un fuerte movimiento que incentive a tener más áreas verdes ya que las áreas verdes existentes poseen un gran déficit de limpieza en donde cada vez van quedando más residuos de carbono en el aire.  
+
+
+Acción para mejorar la problemática 
+ 	Para poder cambiar la cultura mundial de la población es necesario impulsar movimientos de masas que lleguen a los senados implementando políticas adecuadas para cada zona donde se desee incorporar, ramos de ecología y conciencia ecológica, siendo necesario en estas asignaturas que los alumnos tengan experiencias en la naturaleza las cuales sean enriquecedoras y estos aprendan a amar y convivir en una naturaleza limpia y libre de contaminantes.     
+ 	En el área de emisión de gases es necesario agregar impuestos a la extracción y usos de combustibles fósiles, a tal punto que sea más barato para las empresas utilizar energías limpias para solventar los procesos industriales a tratarse.
+ 	En el área de alimentación es necesario trabajar desde pequeños a las personas enseñándoles que tan contamínate es para el planeta cada alimento ingerido de esta manera es también necesario controlar las dietas de la población, no imponiendo los menús diarios pero si, incentivando a los supermercados o negocios a tener buenas alternativas de alimentación.     
+     Se debe hacer un tratado en donde todas las naciones debido a su total de suelo tenga una cantidad de vegetación de esta manera se incentivara el cultivo de más "pulmones" para el planeta.
+
+
+
+
+Para comenzar esta lectura adecuadamente es necesario definir el término disciplina lo cual es la capacidad de trabajar arduamente para conseguir un objetivo establecido.
+El libro de Peter Senge "la quinta disciplina"  está realizado con el objetivo de convertir organizaciones tradicionales, en organizaciones inteligentes, en donde todos los participantes del sistema tengan la capacidad de aprender y relacionarse entre ellos. El plantea modelos circulares los cuales son una guía del cómo se debe enfrentar a una situación problema, en donde él expone un sistema de accionamiento circular, lo cual quiere decir que siempre  una acción ejecutada se relaciona con una consecuencia.  Bajo esta perspectiva de modelos circulares se desarrollan nuevos modelos los cuales buscaran mejorar, modificar y crear nuevos sistemas más eficientes e inteligentes. 	
+
+
+
+
+
+
+
+
+
+
+
+Capítulo 3
+Dame una palanca y moveré el mundo
+En un conjunto de acciones que se realizan para llevar a cabo un sistema, es difícil identificar todo el patrón de cambio que se vaya dando. En general se tiende a concentrar en un elemento puntual, partes aisladas del sistema. El pensamiento sistémico, fue desarrollado dentro de un marco conceptual, a fin de que los patrones de éste mismo resulten más claros y se puedan modificar cuando sean pertinentes. 
+Las herramientas contemporáneas, nos dan una visión más intuitiva y esto se demostró con experimentos realizados con niños, los cuales pudieron aprender un pensamiento sistémico más rápidamente con éstas herramientas.
+Actualmente se plantean 5 disciplinas, las cuales apuntan hacia un mismo objetivo en las organizaciones inteligentes; estas difieren de las más tradicionales ya que son "personales", se relacionan con el método o modo de pensar, querer y forma de aprender. Estas 5 disciplinas son:
+1.	Dominio Personal: aclara y ahonda la visión personal, centra la energía, desarrolla la paciencia y ve la realidad de manera objetiva. Se caracteriza principalmente porque, el deseo y la capacidad de aprender de una organización no puede ser mayor que la de sus miembros.
+2.	Modelos Mentales: supuestos arraigados, los cuales influyen en nuestro modo de actuar y comprender el mundo. Un ejemplo de estos modelos Mentales Arraigados, son los modelos mentales de las conductas empresariales, ya que, si vio que varias compañías lograron el triunfo cuando desafiaron los modelos mentales de sus directivos.
+3.	Visión Compartida: Es plantear metas, valores y misiones dirigidos dentro de una determinada organización. En el mundo empresarial, frecuentemente la visión compartida gira en torno al carisma del líder; pero puede resultar no muy bueno el imponer una visión personal si se desea pensar de manera contraria.
+4.	Aprendizaje en equipo: comienza con el diálogo (teniendo la salvedad que no es lo mismo que discutir). Etimológicamente, diálogo significa libre flujo del significado por medio del grupo . Se puede aplicar también a reconocer patrones de interacción que erosionan el aprendizaje de un equipo. Un ejemplo de estos patrones, son los de defensa, los cuales generalmente están enraizados en el funcionamiento interno del equipo, si no son detectados, atentan directamente con el aprendizaje y si son detectados, se los puede potenciar de manera creativa, para acelerar aún más el aprendizaje.
+5.	Pensamiento Sistémico: basado en la dinámica de sistemas y es profundamente conceptual. Nos da las herramientas o métodos para entender asuntos empresariales, desde un punto de vista sistémico, en términos de ciclos o arquetipos particulares. En su esencia conceptual, pretende generar una "Metanoia ", un "Cambio de enfoque", los cuales nos ayudan de las siguientes maneras:
+ 	Permite ver las interrelaciones entre las partes más que las cadenas lineales de causas y efectos.
+ 	Permite ver los cambios de los procesos, por lo que no nos da una perspectiva estática del sistema.
+La práctica de todo esto, inicia con el concepto de Retroalimentación, el cual nos muestra que las acciones pueden reforzarse y contrarrestarse entre ellas. Estas 5 disciplinas siempre estarán presentes en experimentos, investigaciones, textos e inventos.
+¿Su organización tiene problemas de aprendizaje?
+Este capítulo estudia el cómo cada organización posee un aprendizaje  distinto y cómo estos a medida que no son trabajados vuelve mediocre a una empresa. Esta mediocridad es un estado que se puede propagar a todo el sistema u organización si no se previene. Afecta de tal manera que estas alcanzan a tener como promedio de longevidad, 40 años, antes de quebrar. 
+Muchas de estas organizaciones hacen oídos sordos a las señales que representan una amenaza para la supervivencia, no comprenden sus implicancias y tampoco presentan alguna opción para salvar esta situación.  Otras pocas prestan medianamente atención salvando con el menor esfuerzo una situación de peligro, pero, ¿se presta la suficiente atención a esta problemática?, ¿las empresas tienen una capacidad de aprendizaje para que esto no vuelva a ocurrir?
+El modo en que nos han enseñado a pensar e interactuar, no tan solo en organizaciones sino en general, crean problemas fundamentales de aprendizaje. Y a pesar de cualquier esfuerzo de personas brillantes por resolver estos problemas, la situación no cambia. Claro que existe aprendizaje pero solo a grandes rasgos, nada muy profundo, que genere el suficiente movimiento cómo para mejorar desde los cimientos una organización.
+Existen problemas de aprendizaje en toda organización (empresarial, social, etc.), y este capítulo del libro de Peter Senge nos da una guía para poder identificar las siete barreras del aprendizaje y para remediarlos.
+
+
+
+1. "Yo soy mi puesto"
+Cuando las personas de una organización se concentran únicamente en su puesto, no sienten mayor responsabilidad por los resultados que se generan cuando interactúan todas las partes. Muchos solo hacen su trabajo y con eso les basta, no son capaces de notar la importancia del que ellos desempeñen su labor de manera correcta, que muchas veces puede ser importante en una cadena de elaboración de un producto o servicio.
+2.  "El enemigo externo"
+En muchas ocasiones organizaciones tienden a culpar a otras cuando algo les sale mal, sin hacer antes una retrospección buscando algún problema que nuestro sistema posiblemente tenga. Esta barrera apunta a eso, al supuesto "enemigo externo" que nos provoca el mal momento o la falla.
+3. "La ilusión de hacerse cargo"
+Todos queremos que nuestro jefe nos felicite por ser proactivo, y esto es bueno, pero hay que tener cuidado que esta no se confunda con reactividad, que es esperar que una situación de salga de control para recién actuar. Sentimos la necesidad de hacernos cargo de algo, afrontar problemas dificultosos. A menudo una "reactividad" es imprudente, sin ver los costos, solo creemos que es la mejor idea y que queremos resaltar por sobre los compañeros.
+4. La fijación en los hechos
+ La fijación en los hechos frecuentemente provoca que podamos anticiparnos a hechos parecidos al vivido antes, pero no nos permite lograr aprender para prevenir que no pasen nuevamente estas situaciones.
+5. La parábola de la rana hervida
+Llevamos una vida a mil por hora, pero hay situaciones sutiles que no logramos ver si corremos por todo, la parábola de la rana hervida es un claro ejemplo de ello. Si tan solo préstamos atención a lo evidente nos herviremos en el agua, por eso aunque cueste debemos aminorar la velocidad de nuestras vidas y fijarnos en lo sutil, esto nos permitirá reconocer y aprender lo necesario para seguir adelante.
+6. La ilusión de que "se aprende con la experiencia"
+Cuando uno está en proceso de aprendizaje siempre debe ir ampliando su horizonte existente ya que no se debe caer en la ilusión de que "se aprende con la experiencia", esto será así solo si estamos preparados para recibir ese tipo de información, sino se convertirá en un ciclo repetitivo y contraproducente, en el cual nos pueden repetir una y mil veces una información y simplemente no la entenderemos.
+7. El mito del equipo administrativo
+No se debe incurrir en este error si queremos tener un aprendizaje correcto, los equipos administrativos solo tienen el poder para generar cambios superficiales en el aprendizaje, si queremos que esta situación sea solucionada de raíz será necesario reconocer y ser parte de un nuevo proceso reconstructivo que está afectando la organización  
+Leyes de la quinta disciplina
+1.- Los problemas de hoy derivan de las "soluciones" de ayer.
+Para conocer la verdadera causa de nuestros problemas, a veces solo se necesita analizar las soluciones que dimos a problemas en el pasado. Muchas veces las soluciones que simplemente desplazan los problemas a otra parte del sistema pasan inadvertidas, ya que quienes "resolvieron" el primer problema, no son los mismos que heredan el nuevo problema y deben hacerse cargo de éste. Se puede hacer una comparación con las soluciones parches, que en la mayoría de las veces en vez de solucionar el problema raíz, se desplaza el problema hacia otra área que debe hacerse cargo de éste.
+2.- Cuanto más se presiona, más presiona el sistema.
+Aquí se analiza la situación desde un pensamiento sistémico, donde se desarrolla un fenómeno llamado "realimentación compensadora". Éste fenómeno se produce cuando las intervenciones bien intencionadas en cierto sistema, provocan respuestas de dicho sistema, que compensan los frutos o las utilidades de dicha intervención. Esto quiere decir que al atacar cierta situación, y darle solución a un problema, automáticamente el sistema nos exigirá seguir atendiendo dicho problema constantemente, y atacar las nuevas externalidades que puedan surgir de la solución. O sea, se va poniendo cada vez la vara más alta, cuanto más esfuerzo se pone para realizar cierta acción, luego será necesario realizar más esfuerzo aún para atacar la misma situación.
+3.- La conducta mejora antes de empeorar.
+En este caso, se busca seguir desarrollando la idea de "realimentación compensadora", donde se determina que ciertas soluciones pueden parecer correctas y se evidencian sus beneficios en el corto plazo, pero finalmente los efectos de la realimentación compensadora llegarán inevitablemente, pero más tarde. Es por esto que los problemas sistémicos son tan difíciles de reconocer. Se da el ejemplo de una persona sentada en un sillón, que se ve amenazada por una ficha gigante de dominó a su izquierda, la cual empuja y piensa "al fin puedo relajarme", sin tomar en cuenta que dicha ficha provocaría una cadena que rodearía el sillón y terminaría atacándolo con otra ficha por la derecha.
+4.- El camino fácil lleva al mismo lugar.
+Comúnmente se tiende a atacar cierto problema aplicando soluciones típicas o conocidas, refugiándonos en la comodidad de dicha situación. Si la solución fuera tan obvia o evidente quizás ya la hubieran encontrado, pero sin embargo se sigue insistiendo en soluciones conocidas, mientras que los problemas fundamentales se mantienen e incluso tienden a empeorar. Éste es un tipo de pensamiento asistémico y que cotidianamente se conoce como el síndrome de "aquí se necesita un martillo más grande".
+5.- La cura puede ser peor que la enfermedad.
+Se debe tener extremo cuidado al determinar qué solución se le va a dar a un problema, ya que muchas veces las soluciones crean mayor dependencia y forman un tipo de "adicción" o mal acostumbramiento por parte del ente beneficiado. El fenómeno principal es que las mejoras de corto plazo, conducen a una dependencia de largo plazo, lo que se ha llamado por los pensadores sistémicos al "Desplazamiento de la carga". Idealmente las estructuras que desplazan la carga, deben demostrar que toda solución de largo plazo debe fortalecer la aptitud del sistema para sobrellevar sus propias cargas.
+6.- Lo más rápido es lo más lento.
+Aquí se ejemplifica dicha situación con el ejemplo de que "la tortuga es más lenta, pero gana la carrera". Muchos empresarios creen que la mejor tasa de crecimiento es la "más rápida posible", sin embargo se sabe que casi todos los sistemas naturales, tienen tasas de crecimiento intrínsecamente óptimas. La tasa óptima es muy inferior al crecimiento más rápido posible, y se da la situación de que cuando el crecimiento se vuelve excesivo, el sistema procura compensarlo aminorando la marcha y quizás comprometiendo la supervivencia de la organización.
+7.- La causa y el efecto no están próximos en el tiempo y el espacio.
+Comúnmente se trata de atacar los problemas dentro de la misma área donde se está produciendo, lo que muchas veces es erróneo. Por ejemplo la causa de un problema identificado en la producción, no necesariamente está en ese mismo lugar, sino que puede obedecer a distintas variables y factores externos que están relacionados con ésta área, pero que no necesariamente pertenecen a ella. Como se descubre en la paradoja del "juego de la cerveza", muchas veces la raíz de nuestros problemas no se encuentra en problemas externos, sino que en nosotros mismos.
+8.- Los cambios pequeños pueden producir resultados grandes, pero las zonas de mayor apalancamiento a menudo son las menos obvias.
+Se ha establecido que las soluciones más obvias no necesariamente funcionan como se espera, y que en el mejor de los casos introducen mejoras de corto plazo que luego empeoran la situación. Pero existe otra cara de esta situación, ya que los actos pequeños y bien focalizados a veces producen mejoras significativas y duraderas, si se realizan en el sitio apropiado. Esta situación es denominada por los pensadores sistémicos como el "principio de la palanca". Se debe pensar en procesos de cambio y no en mejoras "instantáneas", de esta forma será mucho más fácil dilucidar donde se encuentra el punto clave de apalancamiento, donde al aplicar un cambio con un mínimo esfuerzo, se provocaría dicha mejora significativa y duradera.
+9.- Se pueden alcanzar dos metas aparentemente contradictorias.
+Durante muchos años los fabricantes norteamericanos creyeron que debían escoger entre bajo coste y alta calidad, pero no analizaban que los modos de aumentar la calidad y reducir los costes podían ir de la mano a través del tiempo. Esto se logra producir, al recoger los beneficios que surgen de cierta parte, y aplicarlos para el desarrollo de una segunda, en concordancia con la primera. Por ejemplo, la inversión en mejorar la calidad, si se gestiona correctamente, va a generar ahorro en otras áreas de la empresa, ya que disminuirán los reclamos, las tareas repetitivas o inspectores de calidad, y aumentarán las ventas y la fidelidad de la clientela. Es posible realizar ambas metas, si se está dispuesto a esperar una de ellas, mientras se concentran en desarrollar la otra.
+10.- Dividir un elefante por la mitad, no genera dos elefantes pequeños.
+Aquí se desarrolla el problema que existe con la interacción entre las distintas partes componentes de un sistema u organización, donde se establece que los sistemas vivientes poseen integridad y su carácter depende de la totalidad, por lo que la comprensión de la mayoría de los problemas administrativos requiere ver la totalidad del sistema que genera dichos problemas. Esto no significa que cada problema organizacional sólo se pueda comprender observando toda la organización, ya que es posible entender algunos problemas sólo observando cómo interactúan ciertas funciones tales como manufacturación, marketing e investigación. Hay problemas donde las fuerzas sistemáticas críticas surgen dentro de una zona funcional específica, y otros donde es preciso examinar la dinámica dentro de una industria entera.
+11.- No hay culpa
+Es común que se suela culpar a agentes o circunstancias externas por nuestros problemas, "alguien más", los competidores, la prensa, el mercado, el gobierno, etc. El pensamiento sistémico muestra que no hay nada externo, que nosotros somos la causa de nuestros problemas y formamos parte de un solo sistema. La cura radica en la relación y la situación en la que nos encontramos nosotros respecto a nuestros "enemigos".
+Ver el mundo de nuevo
+El pensamiento sistémico es una disciplina para ver totalidades. Es un marco para ver interrelaciones en vez de "cosas", para ver patrones de cambio en vez de "instantáneas" estáticas. Hoy el pensamiento sistémico se necesita más que nunca porque la complejidad nos abruma. Quizá por primera vez en la historia, la humanidad tiene capacidad para crear más información de la que nadie puede absorber, para alentar mayor interdependencia de la que nadie puede administrar y para impulsar el cambio con una celeridad que nadie puede seguir.
+El pensamiento sistémico es el antídoto para esta sensación de impotencia que sienten muchos mientras ingresamos en la "era de la interdependencia". El pensamiento sistémico es una disciplina para ver las "estructuras" que subyacen a las situaciones complejas, y para discernir cambios de alto y bajo apalancamiento. Al ver la totalidad aprendemos a alentar la salud. El pensamiento sistémico ofrece un lenguaje que comienza por la reestructuración de nuestro pensamiento. Denominó al pensamiento sistémico, la quinta disciplina porque es la piedra angular conceptual de las cinco metodologías de aprendizaje expuestas en este libro. Todas se relacionan con un cambio de enfoque: ver totalidades en vez de partes. En vez de ver a las personas como seres que se limitan a reaccionar con impotencia, las vemos como participes activos en la modelación de la realidad.  En vez de reaccionar ante el presente, se crea el futuro. Sin pensamiento sistémico, no hay incentivos ni medios para integrar las disciplinas de aprendizaje una vez que se introducen en la práctica. Como quinta disciplina, el pensamiento sistémico constituye la piedra angular del modo en que una organización inteligente piensa acerca del mundo. 
+Para hallar un punto de apalancamiento en la mayoría de las situaciones empresariales hay que comprender la complejidad dinámica, no la complejidad de los detalles. La práctica del pensamiento sistémico comienza con la compresión de un concepto simple llamado feedback o "retroalimentación", que muestra como los actos pueden reforzarse o contrarrestarse (equilibrarse) entre sí.
+Círculos de la causalidad
+La gente se confunde con el término feedback o retroalimentación por que suele usarlo de otra manera: recoger opiniones sobre un acto que hemos realizado. "Dame algún feedback sobre esa decisión acerca de la fábrica. ¿Qué te pareció mi modo de encararla?" En este contexto, "feedback positivo" significa comentarios alentadores y "feedback negativo" significa malas noticias. Pero en el pensamiento sistémico, realimentación es un concepto más amplio. Además, el concepto de realimentación complica el problema ético de la responsabilidad. Al dominar el pensamiento sistémico, abandonamos el supuesto de que debe haber un agente individual responsable. La perspectiva de la realimentación sugiere que todos comparten la responsabilidad por los problemas generados por un sistema. 
+Refuerzo y equilibrio de la realimentación y las demoras: Los ladrillos del pensamiento sistémico
+Hay dos tipos de procesos de realimentación: de refuerzo y de equilibrio. Los procesos de realimentación reforzada (o amplificada) son los motores del crecimiento. La realimentación compensadora (o estabilizadora) opera cuando hay una conducta orientada hacia las metas
+Realimentación reforzadora: cómo crecen los cambios pequeños
+Si estamos en un sistema de realimentación reforzadora, quizá no veamos como los actos pequeños pueden redundar en consecuencias grandes, para mejor o para peor. Ver el sistema a menudo nos permite influir en su funcionamiento.
+En los procesos reforzadores como el efecto Pigmalion, un cambio se alimenta de sí mismo. Un acto pequeño crece como una bola de nieve, repitiéndose una y otra vez, como el interés compuesto.
+Procesos compensadores: estabilidad y resistencia
+Un sistema compensador es un sistema que busca la estabilidad. Si nos agrada la meta del sistema, seremos felices. De lo contrario, todos nuestros esfuerzos para cambiar la situación quedaran frustrados, hasta que podamos cambiar la meta o debilitar su influencia. En un sistema compensador (estabilizador) la autocorrección procura mantener una meta u objetivo. La planificación crea procesos compensadores de largo plazo. Los procesos compensadores son dificultosos en la administración porque las metas a menudo son implícitas, y nadie reconoce que el proceso compensador existe.
+Demoras: La clave es "finalmente"
+Las demoras entre los actos y sus consecuencias están por doquier en los sistemas humanos. Cuando el efecto de una variable sobre otra lleva tiempo provoca demoras, las cuales constituyen el tercer ladrillo básico del lenguaje sistémico. Casi todos los procesos de realimentación contienen alguna forma de demora. Pero a menudo las demoras no se identifican o no se comprenden.
+Configuraciones naturales: patrones que controlan acontecimientos
+     Uno de los conceptos más importantes y decisivos en el joven campo del pensamiento sistémico es la idea de que ciertos patrones estructurales son recurrentes. Estos "arquetipos sistémicos" constituyen la clave para aprender a ver estructuras en nuestra vida personal y laboral. A medida que se aprende a reconocer estos arquetipos, vemos cada vez más sitios donde es posible aplicar el apalancamiento para enfrentar desafíos dificultosos.  
+     El propósito de estos arquetipos sistémicos es reacondicionar nuestras precepciones para que sepamos ver las estructuras en juego, y ver el punto de apalancamiento de esas estructuras. 
+     Todos los arquetipos están constituidos por los ladrillos sistémicos: procesos reforzadores, procesos compensadores y demoras.
+Arquetipo 1: límites del crecimiento 
+     Definición: Un proceso reforzador se pone en marcha para producir un resultado deseado. Crea una espiral de éxito para también genera efectos secundarios inadvertidos que eventualmente atenta contra el éxito.
+     Principio administrativo: No precipites el crecimiento; elimina los factores que limitan el crecimiento.
+     Donde se encuentra: La estructura de los límites de conocimiento es útil para comprender todas las situaciones donde el crecimiento se topa con límites. Esto se explica a una situación en la cual se ve un mejoramiento, ya sea en una actitud o en un trabajo, el cual va el alza hasta cierto punto, este punto viene siendo su límite, luego de esto, este mejoramiento tiende a ir de baja, manteniendo una conducta recta o yéndose a la baja.
+     Estructura
+ 
+Figura 3
+     Patrón de conducta: En los casos de límites del crecimiento, hay un proceso reforzador (amplificador) de crecimiento o perfeccionamiento que opera por sí mismo durante un tiempo. Luego se topa con un proceso compensador (estabilizador), que opera para limitar el crecimiento. Cuando eso ocurre, la tasa de perfeccionamiento disminuye e incluso se detiene. Finalmente, el crecimiento puede decrecer tanto que la espiral reforzadora se invierte y funciona en sentido contrario.
+     Como aplicar la palanca: Para cambiar la conducta del sistema, hay que identificar y modificar el factor limitativo.
+Arquetipo 2: desplazamiento de la carga.
+     Definición: Un problema subyacente genera problemas que reclaman atención. Pero el problema subyacente es difícil de abordar, porque es engorroso o porque es costoso afrontarlo. Así que la gente "desplaza la carga" del problema a otras soluciones, arreglos bien intencionados y fáciles que parecen muy eficaces.
+     Principio administrativo: No solucione los síntomas. Atacar los síntomas y no las causas fundamentales brinda beneficios a corto plazo. El problema resurge y crece la presión por una respuesta ante el síntoma.
+     Donde se encuentra: El desplazamiento de la carga son comunes en nuestra vida diaria, tanto personales como laborales. Puede ser en algún dolor que se le presente a un individuo, este acudirá a alguna pastilla o remedio que lo calme; pero lo que está haciendo es atacar un síntoma del problema, cuando debería averiguar lo que causa el dolor y así atacar directamente el problema en cuestión.
+     Estructura
+ 
+Figura 4
+     Patrón de conducta: Toda solución de los síntomas funciona hasta cierto punto. Al atacar el síntoma y no el problema en sí, se da una satisfacción temporal. El drama es que el problema resurge, haciendo que la persona sea más dependiente de la solución al síntoma, mientras que el problema se sigue complicando.
+Como aplicar la palanca: Para afrontar una estructura de "desplazamiento de la carga" se requiere fortalecer la respuesta fundamental al tiempo que se debilita la respuesta sintomática. El debilitamiento de la respuesta sintomática requiere voluntad para decir la verdad acerca de los paliativos y las soluciones cosméticas.
+Arquetipo 3: soluciones contra producentes   
+Definición: Una solución eficaz en el corto plazo tiene consecuencias de largo plazo imprevistas que requieren más uso de la misma solución.
+Principio Administrativo: No descuides el largo plazo. De ser posible no recurras a las soluciones de corto plazo, o úsalas sólo para ganar tiempo mientras trabajas en un remedio duradero.
+Donde se encuentra: las soluciones contraproducentes son comunes principalmente en las industrias, cuando se resisten a realizar altos costos en temas administrativos y en producción. También es común verlo en la vida cotidiana en las ocasiones que la gente toma decisiones apuradas o muy presionadas. 
+
+
+
+
+
+Estructura
+
+
+
+
+
+Figura 5
+Arquetipo 4: tragedia del terreno común 
+Definición: Los individuos utilizan un recurso común pero limitado reparando únicamente en las necesidades individuales. Al principio son recompensados, pero eventualmente hay una disminución en las ganancias, lo cual les induce a intensificar los esfuerzos. Al final agotan o erosionan el recurso.
+Principio administrativo: Administra el "terreno común" educando a todos y creando formas de autorregulación y presiones de pares, o mediante un mecanismo de regulación oficial, idealmente diseñado por los participantes.
+Donde se encuentra: se encuentra en todo ámbito donde allá un recurso a explotar, ya sea un recurso humano o una materia prima, lo que hace que esté presente tanto en el actuar diario de una empresa, como en un domicilio.
+
+
+
+
+
+Estructura
+ 
+Figura 6
+El principio de la palanca 
+La clave del pensamiento sistémico es la palanca: es hallar el punto donde los actos y las modificaciones en estructuras pueden conducir a mejoras significativas y duraderas. Pero el punto de apalancamiento de la mayoría de los sistemas reales no es obvio para la mayoría de los actores de dichos sistemas. El propósito de los arquetipos sistémicos es ayudar a ver aquellas estructuras.
+Aunque si formas parte del sistema será muy difícil localizar esos puntos.
+Ahora algunos puntos que nos ayudaran a pensar de manera sistémica.
+Perspectiva
+· Subinversión: construir menos capacidad de la necesaria para satisfacer la demanda creciente
+· Calidad: todo aquello que interesa al cliente (producto, servicio, confiabilidad)
+· Inversión: mejora de la capacidad física, adiestramiento del personal, mejora de los procesos laborales, mejora de las estructuras organizacionales.
+Las decisiones con cambios muy agresivos o impactantes, deben tomarse con medidas preventivas, y si es posible recrear una simulación virtual de la situación, para evitar resultados inesperados y poco efectivos, provocando recorte masivo de personal o en su caso el declive de una empresa.
+Ahora un ejemplo. Supongamos que una empresa que se dedica a vender galletas, tiene ventas normales todo el año, no hay cambios en su demanda y no se ve venir algún posible incremento o decremento. De pronto la demanda aumenta sustancialmente, no puede cubrir la demanda y deciden construir una fábrica nueva, ya con la fábrica construida las ventas comienzan a  bajar, entonces la empresa comienza con una estrategia de venta y por lo tanto la demanda aumenta de nuevo. Al ver el éxito comienzan a construir una fábrica nueva, pero se dan cuenta que las ventas bajan de nuevo y eso tiene una razón, su nicho de mercado está totalmente cubierto.
+El  problema de la estimación de la demanda siempre ha sido el factor por el cual una empresa desaparece, cuanto más vendemos, creemos que aumentara y aumentara, solo que no tomamos en cuenta los factores externos. La demanda no siempre crecerá y no siempre se mantendrá así que todos los esfuerzos que se den por preverla siempre se quedaran cortos. 
+En mi opinión personal, cuando la demanda incrementa debe hacerse un estudio o buscar el factor que lo está ocasionando, y sobre eso tomar una decisión para así no correr riesgos.
+La buena gestión no siempre se da en todos, debemos saber dónde y cómo pasan las cosas ya que en las organizaciones nada pasa por casualidad.
+
+
+Arquetipo 4 aplicado
+La clave de un pensamiento sistémico, radica en hallar el o los puntos donde los actos y las modificaciones en estructuras, pueden conducir a mejoras significativas y duraderas. El problema, es que en la gran mayoría de los sistemas reales, no es fácil identificar estos puntos de inflexión, debido a esto es que surgen los arquetipos, los cuales ayudan a esquematizar los sistemas y sus estructuras internas y lograr desentrañar y hallar este punto.
+Cuando hay cambios demasiado bruscos, se deben tomar precauciones en el caso, ya que estos pueden conllevar a resultados inesperados o poco efectivos.
+El arquetipo de la tragedia del terreno común consiste en que los individuos usan un recurso común que es limitado y se dedican a satisfacer sólo necesidades personales. En los albores de este sistema, obtienen recompensas; pero ésta se va degradando de manera silenciosa y repercute en que cada vez, se intensifican los esfuerzos en satisfacer dichas necesidades. Finalmente terminan agotando dicho recurso.
+Una solución, para esta problemática, está en un factor educacional, donde se les adoctrina en la autorregulación y presiones de pares, mediante un mecanismo de regulación. 
+Este modelo de arquetipo, se encuentra en todo ámbito donde haya un recurso a explotar, sea recurso humano o materia prima. Por ende este prototipo está presente en casi todo el actuar diario de una empresa o una persona.
+Si nosotros lo llevamos a nuestra problemática medioambiental, nos encontramos con que son las materias primas del planeta las que están siendo consumidas de manera indiscriminada, sin dar el tiempo para la restauración natural de lo consumido. Los consumidores de dichos recursos, son dos entes claros, que quizá se podrían agrupar dentro de uno mismo; pero se prefiere separar. Los Seres Humanos y Las Empresas. Se separan, ya que las últimas prácticamente todas, realizan estos consumos de recursos de manera indiscriminada en primera instancia, con fines de lucro y finalmente, arrojan desperdicios o elementos contaminantes, los cuales dañan el sistema y ralentizan aún más la renovación natural de los mismos recursos consumidos. Se podrían haber agrupado en solo empresa ya que estas son operadas por Seres Humanos; pero se prefieren separar para dar una separación más clara en el arquetipo y además porque hay que considerar que los Seres Humanos de una u otra manera deben satisfacer necesidades básicas, las cuales demandan un consumo de los recursos del planeta; el problema está en que, hay una tal sobrepoblación, que la demanda de recursos hacia el planeta supera a la cantidad que éste puede satisfacer.
+ 
+Figura 7
+
+Vemos que la suma de cada consumo individual de las empresas por una parte y de los Seres Humanos por otro, va haciendo crecer nuestra bola de nieve, la cual representará el problema y su respectivo tamaño. Además, cabe acotar, que mientras más grande sea la bolita de nieve, más difícil será implantar una solución. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Conclusiones
+En conclusión la quinta disciplina es una herramienta fundamental para dar funcionamiento a cualquier sistema u organización. Se da a entender la importancia que tienen las cinco disciplinas y la presencia que estas tienen en el área de organización e investigación en donde  se le da la importancia a el dominio individual de la persona, su desarrollo intelectual (visión), la relación que estas tienen con sus pares, la capacidad del equipo para aprender; para luego ser introducidos en un pensamiento sistémico, de esta manera el sistema a ejecutar será equilibrado. En el área de aprendizaje se dan varios tips, pero en general se les da énfasis a la importancia de la retroalimentación y la inspección interna que cada parte debe hacer del proceso.  
+Se mencionan las leyes de la quinta disciplina , donde básicamente son ayudas para darse cuenta , si nuestro accionar es el correcto, en donde se da énfasis a los tiempos de los procesos , la toma de decisiones bajo presión , la importancia de los pequeños cambios que a largo plazo pueden ser mejoras significativas , entre otros. Ya planteado esto, Senge habla de la importancia de la retroalimentación, la cual es un organismo regulador que nos avisa si el funcionamiento del sistema es el correcto. De esta manera se abrió paso a los arquetipos los cuales son modelos cíclicos, herramientas útiles para analizar cualquier situación dada. De esta manera éstos nos brindan la ayuda necesaria para solucionar un problema; no obstante es de importancia analizar la situación en la que nos encontramos para señalar el arquetipo correcto.
+
+
+
+
+Bibliografía
+Avizora. (01 de septiembre de 2009). Avizora, cuánto más sepas mejor. Obtenido de http://www.avizora.com/atajo/que_es/club_de_roma/0001_club_de_roma_y_cambio_climatico_como_arma_de_dominacion_global.htm
+Checkland, P. (1993). Pensamiento de Sistemas, práctica de sistemas. 
+Dankev (Dirección). (2016). La tierra está Muriendo [Película].
+Descartes, R. (1637). El discurso del Método. 
+El Dínamo. (21 de septiembre de 2017). El Dínamo. Obtenido de http://www.eldinamo.cl/ambiente/2017/09/21/cientificos-del-mit-anuncian-el-cercano-exterminio-masivo-de-los-seres-vivos/
+Fisher, S. (Dirección). (2016). Before the Flood (Antes que sea Tarde) [Película].
+Johansen, Ó. (1993). Introducción a la Teoría General de Sistemas. 
+Peter Senge, A. G. (2006). La quinta disciplina. 
+Senge, P. (2012). La quinta disciplina en la práctica. 
+
