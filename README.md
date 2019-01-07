@@ -1,5 +1,5 @@
-# Porter_Algoritm
-This is an implementation of the Porter’s Algoritm to make summaries of texts. This algortim has been implement for text in english, but this works for texts in spanish.
+# Porter_Algorithm
+This is an implementation of the Porter’s Algorithm to make summaries of texts. This algortim has been implement for text in english, but this works for texts in spanish.
 It’s use regex expretions for cut the diferents suffix, for example:
 We define this public regex:
 
